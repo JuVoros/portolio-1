@@ -1,6 +1,5 @@
 :root {
-    --Main-purple: rgb(163, 5, 255);
-
+  --Main-purple: rgb(163, 5, 255);
 }
 
 body {
@@ -34,7 +33,7 @@ nav li {
   padding: 5px;
   border-bottom: 4px solid var(--Main-purple);
   transition: all 0.5s ease-out;
-  color:var(--Main-purple);
+  color: var(--Main-purple);
   font-size: 24px;
 }
 
@@ -118,7 +117,7 @@ section {
 }
 
 .title {
-  background: rgba(29, 29, 29, 0.7);
+  background: rgba(0, 0, 0, 0.795);
   padding: 1px;
   position: absolute;
   bottom: 40px;
@@ -126,6 +125,10 @@ section {
   font-size: 24px;
   border-radius: 10px;
   line-height: 0%;
+}
+.title:hover {
+  background-color: blueviolet;
+  border: 2px solid, var(--Main-purple);
 }
 
 .title p:first-child {
@@ -156,6 +159,7 @@ section {
     padding: 0px;
     min-width: auto;
     font-size: 25px;
+    border-right: 0px;
   }
 
   .lefty {
