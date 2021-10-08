@@ -121,11 +121,14 @@ section {
   background: rgba(0, 0, 0, 0.979);
   padding: 1px;
   position: absolute;
+  margin: auto;
   bottom: 40px;
   left: 20px;
   font-size: 24px;
   border-radius: 10px;
   line-height: 0%;
+  width: fit-content;
+  align-items: center;
 }
 .title:hover {
   background-color: rgb(255, 255, 255);
@@ -135,6 +138,10 @@ section {
 .title p:first-child {
   font-size: 36px;
   font-weight: bold;
+}
+#about-me {
+  font-size: larger;
+
 }
 /* Contact Footer */
 #contact {
