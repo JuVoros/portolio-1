@@ -1,6 +1,11 @@
-# First Professional Portfolio 
+# Professional Portfolio 
 
-Link: https://juvoros.github.io/portolio-1/
+# LINKS
+https://juvoros.github.io/portolio-1/
 
-SCREENSHOT
-![julianvorosportfolio](https://user-images.githubusercontent.com/78007904/133973468-144df343-4b89-4299-9521-4b8af3ebba24.png)
+# SCREENSHOTS
+
+![juvoros github io_portolio-1_](https://user-images.githubusercontent.com/78007904/136630181-264d642f-baad-4a73-a79e-84823416ec8f.png)
+
+
+
